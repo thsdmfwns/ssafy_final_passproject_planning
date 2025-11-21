@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bfcd10c9867aa94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기능 요구 사항/기능 요구 사항.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "기능 요구 사항"
-            }
-          },
-          {
-            "id": "145e11696ecfb43e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기능 요구 사항/기능 요구 사항.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "기능 요구 사항"
-            }
-          },
-          {
-            "id": "258a1d47931c909e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기능 요구 사항/기능 요구 사항.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "기능 요구 사항"
-            }
-          },
-          {
             "id": "9766db11bb2dfd30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기능 요구 사항/플랜 및 일정 관리.md",
+                "file": "WBS/WBS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "플랜 및 일정 관리"
+              "title": "WBS"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,20 +186,22 @@
   },
   "active": "9766db11bb2dfd30",
   "lastOpenFiles": [
-    "기능 요구 사항/지도 및 위치 기반 서비스.md",
-    "기능 요구 사항/소셜 기능.md",
-    "기능 요구 사항/사용자 관리 기능.md",
-    "기능 요구 사항/기능 요구 사항.md",
-    "기능 요구 사항/리뷰 및 평가 시스템 (MVP).md",
-    "기능 요구 사항/리뷰 및 평가 시스템.md",
+    "ERD/ERD.md",
     "기능 요구 사항/AI 추천 서비스 (MVP).md",
     "기능 요구 사항/AI 추천 서비스.md",
+    "기능 요구 사항/기능 요구 사항.md",
+    "기능 요구 사항/리뷰 및 평가 시스템.md",
+    "기능 요구 사항/리뷰 및 평가 시스템 (MVP).md",
+    "WBS/WBS.md",
+    "기능 요구 사항/지도 및 위치 기반 서비스.md",
+    "WBS",
     "기능 요구 사항/플랜 및 일정 관리.md",
     "기능 요구 사항/소셜 기능 (MVP).md",
+    "기능 요구 사항/소셜 기능.md",
+    "기능 요구 사항/사용자 관리 기능.md",
+    "제안서/제안서.md",
     "기능 요구 사항/사용자 관리 기능 (MVP).md",
     "index.md",
-    "제안서/제안서.md",
-    "ERD/ERD.md",
     "ERD",
     "제안서"
   ]
