@@ -49,7 +49,8 @@ markdown_extensions:
 
 plugins:
   - search
-  - panzoom
+  - panzoom:
+      full_screen: True
   - roamlinks
   - blog
   - rss:
