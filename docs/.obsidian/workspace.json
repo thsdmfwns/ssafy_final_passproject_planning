@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "api/api 명세서.md",
+                "file": "워크 플로우/워크 플로우.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "api 명세서"
+              "title": "워크 플로우"
             }
           }
         ]
@@ -186,12 +186,13 @@
   },
   "active": "9766db11bb2dfd30",
   "lastOpenFiles": [
-    "워크 플로우/워크 플로우.md",
+    "제안서/제안서.md",
+    "ERD/ERD.md",
     "api/api 명세서.md",
+    "워크 플로우/워크 플로우.md",
     "api",
     "WBS/WBS.md",
     "워크 플로우",
-    "ERD/ERD.md",
     "기능 요구 사항/AI 추천 서비스 (MVP).md",
     "기능 요구 사항/AI 추천 서비스.md",
     "기능 요구 사항/기능 요구 사항.md",
@@ -203,7 +204,6 @@
     "기능 요구 사항/소셜 기능 (MVP).md",
     "기능 요구 사항/소셜 기능.md",
     "기능 요구 사항/사용자 관리 기능.md",
-    "제안서/제안서.md",
     "기능 요구 사항/사용자 관리 기능 (MVP).md",
     "index.md",
     "ERD",
