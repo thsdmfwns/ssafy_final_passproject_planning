@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERD/ERD.md",
+                "file": "WBS/WBS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ERD"
+              "title": "WBS"
             }
           }
         ],
@@ -215,10 +215,10 @@
   },
   "active": "ff97886b5cf98ee2",
   "lastOpenFiles": [
-    "화면정의서/화면정의서.md",
-    "WBS/WBS.md",
     "제안서/제안서.md",
     "ERD/ERD.md",
+    "화면정의서/화면정의서.md",
+    "WBS/WBS.md",
     "기능 요구 사항/지도 및 위치 기반 서비스.md",
     "기능 요구 사항/플랜 및 일정 관리.md",
     "기능 요구 사항/사용자 관리 기능 (MVP).md",
