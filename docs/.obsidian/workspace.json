@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기능 요구 사항/NotUse/소셜 기능.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "소셜 기능"
-            }
-          },
-          {
-            "id": "3e4cda3c1cadc1a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기능 요구 사항/NotUse/소셜 기능 (MVP).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "소셜 기능 (MVP)"
-            }
-          },
-          {
-            "id": "ff97886b5cf98ee2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WBS/WBS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WBS"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,36 +184,42 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "ff97886b5cf98ee2",
+  "active": "9766db11bb2dfd30",
   "lastOpenFiles": [
-    "제안서/제안서.md",
-    "ERD/ERD.md",
-    "화면정의서/화면정의서.md",
-    "WBS/WBS.md",
-    "기능 요구 사항/지도 및 위치 기반 서비스.md",
-    "기능 요구 사항/플랜 및 일정 관리.md",
-    "기능 요구 사항/사용자 관리 기능 (MVP).md",
-    "기능 요구 사항/사용자 관리 기능.md",
-    "기능 요구 사항/AI 추천 서비스 (MVP).md",
-    "기능 요구 사항/AI 추천 서비스.md",
-    "기능 요구 사항/리뷰 및 평가 시스템.md",
-    "기능 요구 사항/리뷰 및 평가 시스템 (MVP).md",
+    "기능 요구 사항/기능 요구 사항(MVP).md",
     "기능 요구 사항/기능 요구 사항.md",
+    "기능 요구 사항/Default/사용자 관리 기능.md",
+    "기능 요구 사항/Default/지도 및 위치 기반 서비스.md",
+    "기능 요구 사항/Default/AI 추천 서비스.md",
+    "기능 요구 사항/MVP/리뷰 및 평가 시스템 (MVP).md",
+    "기능 요구 사항/MVP/사용자 관리 기능 (MVP).md",
+    "화면정의서/imgs/image (5).png",
+    "기능 요구 사항/Default/플랜 및 일정 관리.md",
+    "기능 요구 사항/Default/리뷰 및 평가 시스템.md",
+    "기능 요구 사항/MVP/플랜 및 일정 관리(MVP).md",
+    "기능 요구 사항/MVP/지도 및 위치 기반 서비스(MVP).md",
+    "index.md",
+    "화면정의서/화면정의서.md",
+    "화면정의서/imgs/image (4).png",
+    "화면정의서/imgs/image (3).png",
+    "화면정의서/imgs/image (2).png",
+    "화면정의서/imgs/image (1).png",
+    "화면정의서/imgs",
+    "ERD/ERD 초안.md",
+    "기능 요구 사항/MVP/AI 추천 서비스 (MVP).md",
+    "기능 요구 사항/Default",
     "기능 요구 사항/NotUse/소셜 기능 (MVP).md",
+    "기능 요구 사항/MVP",
     "기능 요구 사항/NotUse/소셜 기능.md",
+    "api/api 명세서.md",
+    "WBS/WBS.md",
+    "제안서/제안서.md",
     "기능 요구 사항/NotUse",
-    "image (4).png",
-    "image (5).png",
-    "image (1).png",
-    "image (2).png",
-    "image (3).png",
     "화면정의서",
     "워크 플로우/워크 플로우.md",
-    "api/api 명세서.md",
     "api",
     "워크 플로우",
     "WBS",
-    "index.md",
     "ERD",
     "제안서"
   ]

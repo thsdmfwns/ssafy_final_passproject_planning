@@ -6,7 +6,6 @@ erDiagram
     USERS ||--o{ MEMOS : writes
     USERS ||--o{ USER_PREFERENCE_PROFILES : has
     USERS ||--o{ PARTY_PLANS : owns
-    USERS ||--o{ PARTY_PLAN_MEMBERS : joins
     USERS ||--o{ PLAN_VOTES : votes
     USERS ||--o{ SCHEDULES : owns
     USERS ||--o{ REVIEW_LIKES : likes
@@ -42,12 +41,10 @@ erDiagram
 
     %% === 플랜 / 코스 ===
     PARTY_PLANS ||--o{ PARTY_PLAN_STOPS : consistsOf
-    PARTY_PLANS ||--o{ PARTY_PLAN_MEMBERS : participants
     PARTY_PLANS ||--o{ PLAN_VOTES : hasVotes
     PARTY_PLANS ||--o{ SCHEDULES : scheduledAs
 
     PARTY_PLAN_STOPS
-    PARTY_PLAN_MEMBERS
     PLAN_VOTES
 
     %% === 일정 / 캘린더 ===
@@ -68,6 +65,7 @@ erDiagram
 
 
 
+
 ## 0. 공통 컬럼 베이스
 
 대부분 “주요 엔티티 테이블”에 공통으로 들어갈 컬럼들:
@@ -80,8 +78,6 @@ erDiagram
 |deleted_at|DATETIME|N|삭제(비활성) 시각(soft delete)|
 |created_by_id|BIGINT FK|N|생성자 user id (users.id)|
 |updated_by_id|BIGINT FK|N|수정자 user id (users.id)|
-
-아래 표들에서 **이 공통 컬럼은 생략**하고, 도메인 고유 컬럼만 적을게.
 
 ---
 
@@ -105,19 +101,7 @@ erDiagram
 
 ---
 
-### 1-2. OAUTH_ACCOUNTS (구글 로그인 연동 등)
-
-|컬럼명|타입|NOT NULL|설명|
-|---|---|---|---|
-|user_id|BIGINT FK|Y|연결된 사용자 (users.id)|
-|provider|VARCHAR(20)|Y|제공자(GOOGLE 등)|
-|provider_user_id|VARCHAR|Y|제공자 쪽 유저 ID|
-|access_token|TEXT|N|액세스 토큰(선택)|
-|refresh_token|TEXT|N|리프레시 토큰(선택)|
-
----
-
-### 1-3. VISITS (방문 이력)
+### 1-2. VISITS (방문 이력)
 
 | 컬럼명          | 타입          | NOT NULL | 설명                             |
 | ------------ | ----------- | -------- | ------------------------------ |
@@ -130,7 +114,7 @@ erDiagram
 
 ---
 
-### 1-4. USER_PREFERENCE_PROFILES (선호도 프로파일)
+### 1-3. USER_PREFERENCE_PROFILES (선호도 프로파일)
 
 |컬럼명|타입|NOT NULL|설명|
 |---|---|---|---|
