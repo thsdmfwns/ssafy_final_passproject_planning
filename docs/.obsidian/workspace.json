@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERD/CORE ERD.md",
-                "mode": "source",
+                "file": "WBS/WBS.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CORE ERD"
+              "title": "WBS"
             }
           }
         ]
@@ -184,8 +184,11 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "2498909562dc10b5",
+  "active": "9766db11bb2dfd30",
   "lastOpenFiles": [
+    "api/api 명세서.md",
+    "화면정의서/화면정의서.md",
+    "ERD/CORE ERD.md",
     "워크 플로우/워크 플로우.md",
     "제안서/제안서.md",
     "index.md",
@@ -201,19 +204,16 @@
     "기능 요구 사항/Default/리뷰 및 평가 시스템.md",
     "기능 요구 사항/MVP/플랜 및 일정 관리(MVP).md",
     "기능 요구 사항/MVP/지도 및 위치 기반 서비스(MVP).md",
-    "화면정의서/화면정의서.md",
     "화면정의서/imgs/image (4).png",
     "화면정의서/imgs/image (3).png",
     "화면정의서/imgs/image (2).png",
     "화면정의서/imgs/image (1).png",
     "화면정의서/imgs",
-    "ERD/CORE ERD.md",
     "기능 요구 사항/MVP/AI 추천 서비스 (MVP).md",
     "기능 요구 사항/Default",
     "기능 요구 사항/NotUse/소셜 기능 (MVP).md",
     "기능 요구 사항/MVP",
     "기능 요구 사항/NotUse/소셜 기능.md",
-    "api/api 명세서.md",
     "WBS/WBS.md",
     "기능 요구 사항/NotUse",
     "화면정의서",
